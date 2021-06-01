@@ -13,3 +13,4 @@ Links mentioned in the presentation.
 - Hugo : https://gohugo.io
 - Packer : https://www.packer.io
 - Python : https://www.python.org
+- Blog : https://www.robert-jensen.dk
